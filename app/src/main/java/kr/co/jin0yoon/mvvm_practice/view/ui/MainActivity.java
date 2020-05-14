@@ -1,8 +1,10 @@
-package kr.co.jin0yoon.mvvm_practice;
+package kr.co.jin0yoon.mvvm_practice.view.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import kr.co.jin0yoon.mvvm_practice.R;
 
 public class MainActivity extends AppCompatActivity {
 
